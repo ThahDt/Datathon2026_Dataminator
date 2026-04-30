@@ -1,5 +1,5 @@
 # Datathon 2026: The Gridbreaker - Sales Forecasting
-**Team Name:** Dataminator
+**Tên đội thi:** Dataminator
 
 ## 1. Cấu trúc thư mục
 Để chạy được mô hình, Ban giám khảo vui lòng đặt các file dữ liệu (`sales.csv`, `sales_test.csv`...) cùng cấp với file code chính.
