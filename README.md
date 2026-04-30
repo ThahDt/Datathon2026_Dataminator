@@ -6,8 +6,8 @@
 
 ```text
 📦 Datathon2026_TheGridbreaker
- ┣ 📜 model.py                   # Source code chính chứa Pipeline huấn luyện & Dự báo
- ┣ 📜 submission.csv             # Kết quả dự báo
+ ┣ 📜 Model.py                   # Source code chính chứa Pipeline huấn luyện & Dự báo
+ ┣ 📜 Submission.csv             # Kết quả dự báo
  ┣ 📜 shap_executive_view.png    # Biểu đồ SHAP Explainability
  ┗ 📜 README.md                  # Hướng dẫn chạy code
 ```
