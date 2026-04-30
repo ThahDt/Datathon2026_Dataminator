@@ -2,12 +2,15 @@
 **Team Name:** Dataminator
 
 ## 1. Cấu trúc thư mục
-Để chạy được mô hình vui lòng đặt các file dữ liệu (sales.csv, sales_test.csv...) cùng cấp với file code chính.
+Để chạy được mô hình, Ban giám khảo vui lòng đặt các file dữ liệu (`sales.csv`, `sales_test.csv`...) cùng cấp với file code chính.
+
+```text
 📦 Datathon2026_TheGridbreaker
- ┣ 📜 model.py  # Source code chính chứa Pipeline huấn luyện & Dự báo
- ┣ 📜 submission.csv # Kết quả dự báo
+ ┣ 📜 model.py                   # Source code chính chứa Pipeline huấn luyện & Dự báo
+ ┣ 📜 submission.csv             # Kết quả dự báo
  ┣ 📜 shap_executive_view.png    # Biểu đồ SHAP Explainability
  ┗ 📜 README.md                  # Hướng dẫn chạy code
+```
 
 ## 2. Các thư viện cần thiết
 Mô hình yêu cầu các thư viện sau:
